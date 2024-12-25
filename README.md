@@ -27,4 +27,5 @@ href 속성으로 link된 url을 찬찬히 읽어보니 <br />
 
 icon을 특정하는 부분을 지워주고 family로 연결되도록 해놓으니 <br />
 'icon의 이름'이 아닌 'icon'이 button으로 잘 출력됩니다.
+
 ![image](https://github.com/user-attachments/assets/03ef74c5-ffa1-468d-8e04-72bfec2bf633)
