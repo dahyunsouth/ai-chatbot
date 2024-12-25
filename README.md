@@ -9,9 +9,9 @@ https://www.youtube.com/watch?v=B21G6tUI4L0&list=PLpwngcHZlPadhRwryAXw3mJWX5KH3T
 ![image](https://github.com/user-attachments/assets/e27a33e3-b819-4626-9939-92a10b87d209)
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=keyboard_arrow_down" />
-…
+    
             <button class="material-symbols-rounded">keyboard_arrow_down</button>
-…
+            
                     <button type="button"
                     class="material-symbols-rounded">sentiment_satisfied</button>
                     <button type="button"
